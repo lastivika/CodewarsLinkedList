@@ -1,6 +1,6 @@
 '''linked list to string representation'''
 class Node():
-    '''linked list'''
+    '''node class'''
     def __init__(self, data, next = None):
         self.data = data
         self.next = next
